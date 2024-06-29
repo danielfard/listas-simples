@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719460432 source:c:\users\dell\desktop\pryecto\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
